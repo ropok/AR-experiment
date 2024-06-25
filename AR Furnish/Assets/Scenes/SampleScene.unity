@@ -577,7 +577,7 @@ MonoBehaviour:
         m_MethodName: SwitchFurniture
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 384585350}
+          m_ObjectArgument: {fileID: 2290429128980147679, guid: 35a69f8bd3082ca47bb8aa0d0a31f444, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -840,7 +840,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8020cc95a2d135b459c1e42717f43905, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnableFurniture: {fileID: 1350060174}
+  SpawnableFurniture: {fileID: 2683126175790518071, guid: d7efbcab7e630fb4f9a01349288209a7, type: 3}
   xrOrigin: {fileID: 922154276}
   raycastManager: {fileID: 922154279}
   planeManager: {fileID: 922154278}
@@ -931,7 +931,7 @@ MonoBehaviour:
         m_MethodName: SwitchFurniture
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 979751283}
+          m_ObjectArgument: {fileID: 2606406848853835271, guid: dc1f2bc048dadeb478693b30c01a9ce8, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -1063,7 +1063,7 @@ MonoBehaviour:
         m_MethodName: SwitchFurniture
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1350060174}
+          m_ObjectArgument: {fileID: 2683126175790518071, guid: d7efbcab7e630fb4f9a01349288209a7, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
