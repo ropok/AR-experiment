@@ -16,20 +16,20 @@ The biggest challange I've got so far was found the deprecated package's content
 
 ## What the AR Apps looks like
 1. AR Earth and Mars <br>
-Rotating Earth and Mars on the go.
-![Mars on the street](/images/AR_Experiment_1.jpg)
-![Earth in the house](/images/AR_Experiment_2.jpg)
+Rotating Earth and Mars on the go.<br>
+<img src="images/AR_Experiment_1.jpg" width="216" height="">
+<img src="images/AR_Experiment_2.jpg" width="216" height="">
 2. AR Jet Turbine <br>
-Such a machine "learning".
-![Jet Turbine Machine](/images/AR_Jet_Turbine_1.jpg.jpg)
+Such a machine "learning".<br>
+<img src="images/AR_Jet_Turbine_1.jpg" width="216" height="">
 3. AR Gardeni <br>
-Plan the Plants on the Plane.
-![Plant](/images/AR_Gardeni_1.jpg)
-![Plant](/images/AR_Gardeni_2.jpg)
-![Plant](/images/AR_Gardeni_3.jpg)
+Plan the Plants on the Plane.<br>
+<img src="images/AR_Gardeni_1.jpg" width="216" height="">
+<img src="images/AR_Gardeni_2.jpg" width="216" height="">
+<img src="images/AR_Gardeni_3.jpg" width="216" height="">
 4. AR Furnish <br>
-Imagine the furniture.
-![Furniture](/images/AR_Furnish_1.jpg)
+Imagine the furniture.<br>
+<img src="images/AR_Furnish_1.jpg" width="216" height="">
 
 ## Credits
 * [freeCodeCamp.org](https://www.youtube.com/@freecodecamp): for the awesome YouTube tutorial.
